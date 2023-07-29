@@ -52,6 +52,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shraddhamhatre113&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhamhatre113   &layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhamhatre113&layout=compact&theme=prussian)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shraddhamhatre113.shraddhamhatre113)
