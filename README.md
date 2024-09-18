@@ -9,7 +9,7 @@
 
 ## Where to find me
 <div>
-<img src='./images/523681.png' width='30px' height='30px'>
+<a href ='linkedin.com/in/shraddha-patil-fe'><img src='./images/523681.png' width='30px' height='30px'></a>
 <img title='' src='./images/github.png' width='30px' height='30px'>
 <img src="./images/insta.png" width='30px' height='30px'>
 <img src="./images/fb.png" width='30px' height='30px'>
