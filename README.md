@@ -22,12 +22,12 @@
 
 🌍 I am based in Berlin, Germany
 
-🧠 I am full stack developer. Recentyly completed web developemnt course. 
+🧠 I am a full-stack developer. I have recently completed a web development course. 
 
-🔭 I’m currently working as junior developer with Hi-Id
+🔭 I’m currently working as a junior developer with Hi-Id
 
 
-## Languagaes and tools
+## Languages and tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
