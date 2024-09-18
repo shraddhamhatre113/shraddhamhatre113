@@ -20,6 +20,9 @@
 
 ## About Me
 
+I have always loved designing, creating, and building things from scratch. As an aspiring web developer with a background in architecture. I can now follow that passion in this new field. As a former Architect. I have developed a keen eye for detail, and creative and analytical thinking skills that will benefit my tech career. I am now ready to take on a position/internship as a front-end developer.
+ I have gained valuable hands-on experience in using the latest technologies such as React, JavaScript, HTML5 & CSS. Additionally, I have honed my teamwork skills, collaborative spirit, and solution-oriented way of thinking through practical projects.
+
 🌍 I am based in Berlin, Germany
 
 🧠 I am a full-stack developer. I have recently completed a web development course. 
